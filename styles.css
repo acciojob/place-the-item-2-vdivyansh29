@@ -4,7 +4,7 @@
 	display: flex;
 	justify-content: center;
 	align-content: center;
-	flexwrapp: wrap;
+	flex-wrap: wrap;
 }
 
 .item{
